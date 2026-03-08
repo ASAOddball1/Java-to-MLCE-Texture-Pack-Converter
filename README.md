@@ -137,6 +137,11 @@ Select **16×**, **32×**, or **64×** from the buttons in the top bar. This con
 ### Step 5 — Build
 Click **BUILD ASSETS**. The output PNG is saved to the same folder as the JSON file you loaded. For terrain builds, the two mip map levels are saved there as well.
 
+### Step 6 — Inject
+Take your built files and take them to LCEWindows64/Common/res/TitleUpdate/res and just replace the default files
+
+Or use a pck editor like PCK-Studio to create custom texture packs
+
 ---
 
 ## Repository Contents
