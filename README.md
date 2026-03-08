@@ -85,6 +85,14 @@ When you run Auto-Sync, add the folder containing these files as part of your li
 
 ## Known Limitations
 
+### Block and Item Texture Folder Conflicts
+Java Edition texture packs store **block textures** and **item textures** in separate subfolders (textures/block/ and textures/item/), and some filenames are shared between the two — for example a block and its item drop can have the exact same filename. Because of this, when running Auto-Sync you should point your library at the specific subfolder you are building for rather than the root of the pack:
+
+For **terrain builds** — browse to the **textures/block/** folder
+For **item builds** — browse to the **textures/item/** folder
+
+If you point the library at the pack root or the textures/ folder, block textures can end up being placed in item slots and vice versa wherever filenames collide.
+
 ### Particles Sheet
 The particles JSON mapping file is **not yet available**. The Particles tab is present in the tool but cannot be used to generate a sheet until the mapping file is added in a future update.
 
@@ -121,7 +129,7 @@ python MLCE_Converter.py
 ## How to Use
 
 ### Step 1 — Select your library
-Click **SELECT LIBRARY** and browse to the root folder of a Java Edition texture pack (or any folder containing `.png` files). The tool walks all subfolders automatically. To include the bundled MLCE-exclusive textures, point it at the root of this repo or a folder that contains them alongside your pack files.
+Click **SELECT LIBRARY** and browse to the textures folder for Blocks and the items folder inside of the textures for Items of a Java Edition texture pack (or any folder containing the correct `.png` files). (the reason for needing different folders for block textures and items is because some of the blocks have the same filename as the item sprite because its in a different folder than the item sprite causing the block textures to be placed in the space of the item sprite) The tool walks all subfolders automatically. To include the bundled MLCE-exclusive textures, point it at the root of this repo or a folder that contains them alongside your pack files.
 
 ### Step 2 — Load a JSON
 Click **TERRAIN JSON**, **ITEMS JSON**, or **PARTICLES JSON** and select the corresponding mapping file from this repo. The entry list will populate immediately.
