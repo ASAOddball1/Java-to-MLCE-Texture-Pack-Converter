@@ -1,0 +1,1406 @@
+[
+  {
+    "Name": "leather_helmet",
+    "DisplayName": "Leather Helmet",
+    "X": 0,
+    "Y": 0
+  },
+  {
+    "Name": "chainmail_helmet",
+    "DisplayName": "Chainmail Helmet",
+    "X": 16,
+    "Y": 0
+  },
+  {
+    "Name": "iron_helmet",
+    "DisplayName": "Iron Helmet",
+    "X": 32,
+    "Y": 0
+  },
+  {
+    "Name": "diamond_helmet",
+    "DisplayName": "Diamond Helmet",
+    "X": 48,
+    "Y": 0
+  },
+  {
+    "Name": "golden_helmet",
+    "DisplayName": "Golden Helmet",
+    "X": 64,
+    "Y": 0
+  },
+  {
+    "Name": "flint_and_steel",
+    "DisplayName": "Flint and Steel",
+    "X": 80,
+    "Y": 0
+  },
+  {
+    "Name": "flint",
+    "DisplayName": "Flint",
+    "X": 96,
+    "Y": 0
+  },
+  {
+    "Name": "coal",
+    "DisplayName": "Coal",
+    "X": 112,
+    "Y": 0
+  },
+  {
+    "Name": "string",
+    "DisplayName": "String",
+    "X": 128,
+    "Y": 0
+  },
+  {
+    "Name": "wheat_seeds",
+    "DisplayName": "Wheat Seeds",
+    "X": 144,
+    "Y": 0
+  },
+  {
+    "Name": "apple",
+    "DisplayName": "Apple",
+    "X": 160,
+    "Y": 0
+  },
+  {
+    "Name": "golden_apple",
+    "DisplayName": "Golden Apple",
+    "X": 176,
+    "Y": 0
+  },
+  {
+    "Name": "egg",
+    "DisplayName": "Egg",
+    "X": 192,
+    "Y": 0
+  },
+  {
+    "Name": "sugar",
+    "DisplayName": "Sugar",
+    "X": 208,
+    "Y": 0
+  },
+  {
+    "Name": "snowball",
+    "DisplayName": "Snowball",
+    "X": 224,
+    "Y": 0
+  },
+  {
+    "Name": "armor_ui_head",
+    "DisplayName": "Armor UI Head",
+    "X": 240,
+    "Y": 0
+  },
+  {
+    "Name": "leather_chestplate",
+    "DisplayName": "Leather Chestplate",
+    "X": 0,
+    "Y": 16
+  },
+  {
+    "Name": "chainmail_chestplate",
+    "DisplayName": "Chainmail Chestplate",
+    "X": 16,
+    "Y": 16
+  },
+  {
+    "Name": "iron_chestplate",
+    "DisplayName": "Iron Chestplate",
+    "X": 32,
+    "Y": 16
+  },
+  {
+    "Name": "diamond_chestplate",
+    "DisplayName": "Diamond Chestplate",
+    "X": 48,
+    "Y": 16
+  },
+  {
+    "Name": "golden_chestplate",
+    "DisplayName": "Golden Chestplate",
+    "X": 64,
+    "Y": 16
+  },
+  {
+    "Name": "bow",
+    "DisplayName": "Bow",
+    "X": 80,
+    "Y": 16
+  },
+  {
+    "Name": "brick",
+    "DisplayName": "Brick",
+    "X": 96,
+    "Y": 16
+  },
+  {
+    "Name": "iron_ingot",
+    "DisplayName": "Iron Ingot",
+    "X": 112,
+    "Y": 16
+  },
+  {
+    "Name": "feather",
+    "DisplayName": "Feather",
+    "X": 128,
+    "Y": 16
+  },
+  {
+    "Name": "wheat",
+    "DisplayName": "Wheat",
+    "X": 144,
+    "Y": 16
+  },
+  {
+    "Name": "painting",
+    "DisplayName": "Painting",
+    "X": 160,
+    "Y": 16
+  },
+  {
+    "Name": "sugar_cane",
+    "DisplayName": "Sugar Cane",
+    "X": 176,
+    "Y": 16
+  },
+  {
+    "Name": "bone",
+    "DisplayName": "Bone",
+    "X": 192,
+    "Y": 16
+  },
+  {
+    "Name": "cake",
+    "DisplayName": "Cake",
+    "X": 208,
+    "Y": 16
+  },
+  {
+    "Name": "slime_ball",
+    "DisplayName": "Slime Ball",
+    "X": 224,
+    "Y": 16
+  },
+  {
+    "Name": "armor_ui_chest",
+    "DisplayName": "Armor UI Chest",
+    "X": 240,
+    "Y": 16
+  },
+  {
+    "Name": "leather_leggings",
+    "DisplayName": "Leather Leggings",
+    "X": 0,
+    "Y": 32
+  },
+  {
+    "Name": "chainmail_leggings",
+    "DisplayName": "Chainmail Leggings",
+    "X": 16,
+    "Y": 32
+  },
+  {
+    "Name": "iron_leggings",
+    "DisplayName": "Iron Leggings",
+    "X": 32,
+    "Y": 32
+  },
+  {
+    "Name": "diamond_leggings",
+    "DisplayName": "Diamond Leggings",
+    "X": 48,
+    "Y": 32
+  },
+  {
+    "Name": "golden_leggings",
+    "DisplayName": "Golden Leggings",
+    "X": 64,
+    "Y": 32
+  },
+  {
+    "Name": "arrow",
+    "DisplayName": "Arrow",
+    "X": 80,
+    "Y": 32
+  },
+  {
+    "Name": "quiver",
+    "DisplayName": "Quiver",
+    "X": 96,
+    "Y": 32
+  },
+  {
+    "Name": "gold_ingot",
+    "DisplayName": "Gold Ingot",
+    "X": 112,
+    "Y": 32
+  },
+  {
+    "Name": "gunpowder",
+    "DisplayName": "Gunpowder",
+    "X": 128,
+    "Y": 32
+  },
+  {
+    "Name": "bread",
+    "DisplayName": "Bread",
+    "X": 144,
+    "Y": 32
+  },
+  {
+    "Name": "oak_sign",
+    "DisplayName": "Oak Sign",
+    "X": 160,
+    "Y": 32
+  },
+  {
+    "Name": "oak_door",
+    "DisplayName": "Oak Door",
+    "X": 176,
+    "Y": 32
+  },
+  {
+    "Name": "iron_door",
+    "DisplayName": "Iron Door",
+    "X": 192,
+    "Y": 32
+  },
+  {
+    "Name": "red_bed",
+    "DisplayName": "Red Bed",
+    "X": 208,
+    "Y": 32
+  },
+  {
+    "Name": "fire_charge",
+    "DisplayName": "Fire Charge",
+    "X": 224,
+    "Y": 32
+  },
+  {
+    "Name": "armor_ui_legs",
+    "DisplayName": "Armor UI Legs",
+    "X": 240,
+    "Y": 32
+  },
+  {
+    "Name": "leather_boots",
+    "DisplayName": "Leather Boots",
+    "X": 0,
+    "Y": 48
+  },
+  {
+    "Name": "chainmail_boots",
+    "DisplayName": "Chainmail Boots",
+    "X": 16,
+    "Y": 48
+  },
+  {
+    "Name": "iron_boots",
+    "DisplayName": "Iron Boots",
+    "X": 32,
+    "Y": 48
+  },
+  {
+    "Name": "diamond_boots",
+    "DisplayName": "Diamond Boots",
+    "X": 48,
+    "Y": 48
+  },
+  {
+    "Name": "golden_boots",
+    "DisplayName": "Golden Boots",
+    "X": 64,
+    "Y": 48
+  },
+  {
+    "Name": "stick",
+    "DisplayName": "Stick",
+    "X": 80,
+    "Y": 48
+  },
+  {
+    "Name": "compass",
+    "DisplayName": "Compass",
+    "X": 96,
+    "Y": 48
+  },
+  {
+    "Name": "diamond",
+    "DisplayName": "Diamond",
+    "X": 112,
+    "Y": 48
+  },
+  {
+    "Name": "redstone",
+    "DisplayName": "Redstone",
+    "X": 128,
+    "Y": 48
+  },
+  {
+    "Name": "clay_ball",
+    "DisplayName": "Clay Ball",
+    "X": 144,
+    "Y": 48
+  },
+  {
+    "Name": "paper",
+    "DisplayName": "Paper",
+    "X": 160,
+    "Y": 48
+  },
+  {
+    "Name": "book",
+    "DisplayName": "Book",
+    "X": 176,
+    "Y": 48
+  },
+  {
+    "Name": "filled_map",
+    "DisplayName": "Filled Map",
+    "X": 192,
+    "Y": 48
+  },
+  {
+    "Name": "pumpkin_seeds",
+    "DisplayName": "Pumpkin Seeds",
+    "X": 208,
+    "Y": 48
+  },
+  {
+    "Name": "melon_seeds",
+    "DisplayName": "Melon Seeds",
+    "X": 224,
+    "Y": 48
+  },
+  {
+    "Name": "armor_ui_boots",
+    "DisplayName": "Armor UI Boots",
+    "X": 240,
+    "Y": 48
+  },
+  {
+    "Name": "wooden_sword",
+    "DisplayName": "Wooden Sword",
+    "X": 0,
+    "Y": 64
+  },
+  {
+    "Name": "stone_sword",
+    "DisplayName": "Stone Sword",
+    "X": 16,
+    "Y": 64
+  },
+  {
+    "Name": "iron_sword",
+    "DisplayName": "Iron Sword",
+    "X": 32,
+    "Y": 64
+  },
+  {
+    "Name": "diamond_sword",
+    "DisplayName": "Diamond Sword",
+    "X": 48,
+    "Y": 64
+  },
+  {
+    "Name": "golden_sword",
+    "DisplayName": "Golden Sword",
+    "X": 64,
+    "Y": 64
+  },
+  {
+    "Name": "fishing_rod",
+    "DisplayName": "Fishing Rod",
+    "X": 80,
+    "Y": 64
+  },
+  {
+    "Name": "clock",
+    "DisplayName": "Clock",
+    "X": 96,
+    "Y": 64
+  },
+  {
+    "Name": "bowl",
+    "DisplayName": "Bowl",
+    "X": 112,
+    "Y": 64
+  },
+  {
+    "Name": "mushroom_stew",
+    "DisplayName": "Mushroom Stew",
+    "X": 128,
+    "Y": 64
+  },
+  {
+    "Name": "glowstone_dust",
+    "DisplayName": "Glowstone Dust",
+    "X": 144,
+    "Y": 64
+  },
+  {
+    "Name": "bucket",
+    "DisplayName": "Bucket",
+    "X": 160,
+    "Y": 64
+  },
+  {
+    "Name": "water_bucket",
+    "DisplayName": "Water Bucket",
+    "X": 176,
+    "Y": 64
+  },
+  {
+    "Name": "lava_bucket",
+    "DisplayName": "Lava Bucket",
+    "X": 192,
+    "Y": 64
+  },
+  {
+    "Name": "milk_bucket",
+    "DisplayName": "Milk Bucket",
+    "X": 208,
+    "Y": 64
+  },
+  {
+    "Name": "ink_sac",
+    "DisplayName": "Ink Sac",
+    "X": 224,
+    "Y": 64
+  },
+  {
+    "Name": "gray_dye",
+    "DisplayName": "Gray Dye",
+    "X": 240,
+    "Y": 64
+  },
+  {
+    "Name": "wooden_shovel",
+    "DisplayName": "Wooden Shovel",
+    "X": 0,
+    "Y": 80
+  },
+  {
+    "Name": "stone_shovel",
+    "DisplayName": "Stone Shovel",
+    "X": 16,
+    "Y": 80
+  },
+  {
+    "Name": "iron_shovel",
+    "DisplayName": "Iron Shovel",
+    "X": 32,
+    "Y": 80
+  },
+  {
+    "Name": "diamond_shovel",
+    "DisplayName": "Diamond Shovel",
+    "X": 48,
+    "Y": 80
+  },
+  {
+    "Name": "golden_shovel",
+    "DisplayName": "Golden Shovel",
+    "X": 64,
+    "Y": 80
+  },
+  {
+    "Name": "fishing_rod_cast",
+    "DisplayName": "Fishing Rod (Cast)",
+    "X": 80,
+    "Y": 80
+  },
+  {
+    "Name": "repeater",
+    "DisplayName": "Repeater",
+    "X": 96,
+    "Y": 80
+  },
+  {
+    "Name": "raw_porkchop",
+    "DisplayName": "Raw Porkchop",
+    "X": 112,
+    "Y": 80
+  },
+  {
+    "Name": "cooked_porkchop",
+    "DisplayName": "Cooked Porkchop",
+    "X": 128,
+    "Y": 80
+  },
+  {
+    "Name": "cod",
+    "DisplayName": "Cod",
+    "X": 144,
+    "Y": 80
+  },
+  {
+    "Name": "cooked_cod",
+    "DisplayName": "Cooked Cod",
+    "X": 160,
+    "Y": 80
+  },
+  {
+    "Name": "rotten_flesh",
+    "DisplayName": "Rotten Flesh",
+    "X": 176,
+    "Y": 80
+  },
+  {
+    "Name": "cookie",
+    "DisplayName": "Cookie",
+    "X": 192,
+    "Y": 80
+  },
+  {
+    "Name": "shears",
+    "DisplayName": "Shears",
+    "X": 208,
+    "Y": 80
+  },
+  {
+    "Name": "red_dye",
+    "DisplayName": "Red Dye",
+    "X": 224,
+    "Y": 80
+  },
+  {
+    "Name": "pink_dye",
+    "DisplayName": "Pink Dye",
+    "X": 240,
+    "Y": 80
+  },
+  {
+    "Name": "wooden_pickaxe",
+    "DisplayName": "Wooden Pickaxe",
+    "X": 0,
+    "Y": 96
+  },
+  {
+    "Name": "stone_pickaxe",
+    "DisplayName": "Stone Pickaxe",
+    "X": 16,
+    "Y": 96
+  },
+  {
+    "Name": "iron_pickaxe",
+    "DisplayName": "Iron Pickaxe",
+    "X": 32,
+    "Y": 96
+  },
+  {
+    "Name": "diamond_pickaxe",
+    "DisplayName": "Diamond Pickaxe",
+    "X": 48,
+    "Y": 96
+  },
+  {
+    "Name": "golden_pickaxe",
+    "DisplayName": "Golden Pickaxe",
+    "X": 64,
+    "Y": 96
+  },
+  {
+    "Name": "bow_pulling_0",
+    "DisplayName": "Bow Pulling 0",
+    "X": 80,
+    "Y": 96
+  },
+  {
+    "Name": "carrot_on_a_stick",
+    "DisplayName": "Carrot on a Stick",
+    "X": 96,
+    "Y": 96
+  },
+  {
+    "Name": "leather",
+    "DisplayName": "Leather",
+    "X": 112,
+    "Y": 96
+  },
+  {
+    "Name": "saddle",
+    "DisplayName": "Saddle",
+    "X": 128,
+    "Y": 96
+  },
+  {
+    "Name": "raw_beef",
+    "DisplayName": "Raw Beef",
+    "X": 144,
+    "Y": 96
+  },
+  {
+    "Name": "cooked_beef",
+    "DisplayName": "Cooked Beef",
+    "X": 160,
+    "Y": 96
+  },
+  {
+    "Name": "ender_pearl",
+    "DisplayName": "Ender Pearl",
+    "X": 176,
+    "Y": 96
+  },
+  {
+    "Name": "blaze_rod",
+    "DisplayName": "Blaze Rod",
+    "X": 192,
+    "Y": 96
+  },
+  {
+    "Name": "melon_slice",
+    "DisplayName": "Melon Slice",
+    "X": 208,
+    "Y": 96
+  },
+  {
+    "Name": "green_dye",
+    "DisplayName": "Green Dye",
+    "X": 224,
+    "Y": 96
+  },
+  {
+    "Name": "lime_dye",
+    "DisplayName": "Lime Dye",
+    "X": 240,
+    "Y": 96
+  },
+  {
+    "Name": "wooden_axe",
+    "DisplayName": "Wooden Axe",
+    "X": 0,
+    "Y": 112
+  },
+  {
+    "Name": "stone_axe",
+    "DisplayName": "Stone Axe",
+    "X": 16,
+    "Y": 112
+  },
+  {
+    "Name": "iron_axe",
+    "DisplayName": "Iron Axe",
+    "X": 32,
+    "Y": 112
+  },
+  {
+    "Name": "diamond_axe",
+    "DisplayName": "Diamond Axe",
+    "X": 48,
+    "Y": 112
+  },
+  {
+    "Name": "golden_axe",
+    "DisplayName": "Golden Axe",
+    "X": 64,
+    "Y": 112
+  },
+  {
+    "Name": "bow_pulling_1",
+    "DisplayName": "Bow Pulling 1",
+    "X": 80,
+    "Y": 112
+  },
+  {
+    "Name": "baked_potato",
+    "DisplayName": "Baked Potato",
+    "X": 96,
+    "Y": 112
+  },
+  {
+    "Name": "potato",
+    "DisplayName": "Potato",
+    "X": 112,
+    "Y": 112
+  },
+  {
+    "Name": "carrot",
+    "DisplayName": "Carrot",
+    "X": 128,
+    "Y": 112
+  },
+  {
+    "Name": "raw_chicken",
+    "DisplayName": "Raw Chicken",
+    "X": 144,
+    "Y": 112
+  },
+  {
+    "Name": "cooked_chicken",
+    "DisplayName": "Cooked Chicken",
+    "X": 160,
+    "Y": 112
+  },
+  {
+    "Name": "ghast_tear",
+    "DisplayName": "Ghast Tear",
+    "X": 176,
+    "Y": 112
+  },
+  {
+    "Name": "gold_nugget",
+    "DisplayName": "Gold Nugget",
+    "X": 192,
+    "Y": 112
+  },
+  {
+    "Name": "nether_wart",
+    "DisplayName": "Nether Wart",
+    "X": 208,
+    "Y": 112
+  },
+  {
+    "Name": "cocoa_beans",
+    "DisplayName": "Cocoa Beans",
+    "X": 224,
+    "Y": 112
+  },
+  {
+    "Name": "yellow_dye",
+    "DisplayName": "Yellow Dye",
+    "X": 240,
+    "Y": 112
+  },
+  {
+    "Name": "wooden_hoe",
+    "DisplayName": "Wooden Hoe",
+    "X": 0,
+    "Y": 128
+  },
+  {
+    "Name": "stone_hoe",
+    "DisplayName": "Stone Hoe",
+    "X": 16,
+    "Y": 128
+  },
+  {
+    "Name": "iron_hoe",
+    "DisplayName": "Iron Hoe",
+    "X": 32,
+    "Y": 128
+  },
+  {
+    "Name": "diamond_hoe",
+    "DisplayName": "Diamond Hoe",
+    "X": 48,
+    "Y": 128
+  },
+  {
+    "Name": "golden_hoe",
+    "DisplayName": "Golden Hoe",
+    "X": 64,
+    "Y": 128
+  },
+  {
+    "Name": "bow_pulling_2",
+    "DisplayName": "Bow Pulling 2",
+    "X": 80,
+    "Y": 128
+  },
+  {
+    "Name": "poisonous_potato",
+    "DisplayName": "Poisonous Potato",
+    "X": 96,
+    "Y": 128
+  },
+  {
+    "Name": "minecart",
+    "DisplayName": "Minecart",
+    "X": 112,
+    "Y": 128
+  },
+  {
+    "Name": "oak_boat",
+    "DisplayName": "Oak Boat",
+    "X": 128,
+    "Y": 128
+  },
+  {
+    "Name": "glistering_melon_slice",
+    "DisplayName": "Glistering Melon Slice",
+    "X": 144,
+    "Y": 128
+  },
+  {
+    "Name": "fermented_spider_eye",
+    "DisplayName": "Fermented Spider Eye",
+    "X": 160,
+    "Y": 128
+  },
+  {
+    "Name": "spider_eye",
+    "DisplayName": "Spider Eye",
+    "X": 176,
+    "Y": 128
+  },
+  {
+    "Name": "glass_bottle",
+    "DisplayName": "Glass Bottle",
+    "X": 192,
+    "Y": 128
+  },
+  {
+    "Name": "potion_overlay",
+    "DisplayName": "Potion Overlay",
+    "X": 208,
+    "Y": 128
+  },
+  {
+    "Name": "lapis_lazuli",
+    "DisplayName": "Lapis Lazuli",
+    "X": 224,
+    "Y": 128
+  },
+  {
+    "Name": "light_blue_dye",
+    "DisplayName": "Light Blue Dye",
+    "X": 240,
+    "Y": 128
+  },
+  {
+    "Name": "exclusive_brown_texture",
+    "DisplayName": "Exclusive Brown Texture",
+    "X": 0,
+    "Y": 144
+  },
+  {
+    "Name": "iron_horse_armor",
+    "DisplayName": "Iron Horse Armor",
+    "X": 32,
+    "Y": 144
+  },
+  {
+    "Name": "diamond_horse_armor",
+    "DisplayName": "Diamond Horse Armor",
+    "X": 48,
+    "Y": 144
+  },
+  {
+    "Name": "golden_horse_armor",
+    "DisplayName": "Golden Horse Armor",
+    "X": 64,
+    "Y": 144
+  },
+  {
+    "Name": "comparator",
+    "DisplayName": "Comparator",
+    "X": 80,
+    "Y": 144
+  },
+  {
+    "Name": "golden_carrot",
+    "DisplayName": "Golden Carrot",
+    "X": 96,
+    "Y": 144
+  },
+  {
+    "Name": "chest_minecart",
+    "DisplayName": "Chest Minecart",
+    "X": 112,
+    "Y": 144
+  },
+  {
+    "Name": "pumpkin_pie",
+    "DisplayName": "Pumpkin Pie",
+    "X": 128,
+    "Y": 144
+  },
+  {
+    "Name": "egg",
+    "DisplayName": "Egg",
+    "X": 144,
+    "Y": 144
+  },
+  {
+    "Name": "splash_potion",
+    "DisplayName": "Splash Potion",
+    "X": 160,
+    "Y": 144
+  },
+  {
+    "Name": "ender_eye",
+    "DisplayName": "Eye of Ender",
+    "X": 176,
+    "Y": 144
+  },
+  {
+    "Name": "cauldron",
+    "DisplayName": "Cauldron",
+    "X": 192,
+    "Y": 144
+  },
+  {
+    "Name": "blaze_powder",
+    "DisplayName": "Blaze Powder",
+    "X": 208,
+    "Y": 144
+  },
+  {
+    "Name": "purple_dye",
+    "DisplayName": "Purple Dye",
+    "X": 224,
+    "Y": 144
+  },
+  {
+    "Name": "magenta_dye",
+    "DisplayName": "Magenta Dye",
+    "X": 240,
+    "Y": 144
+  },
+  {
+    "Name": "name_tag",
+    "DisplayName": "Name Tag",
+    "X": 48,
+    "Y": 160
+  },
+  {
+    "Name": "lead",
+    "DisplayName": "Lead",
+    "X": 80,
+    "Y": 160
+  },
+  {
+    "Name": "nether_brick",
+    "DisplayName": "Nether Brick",
+    "X": 96,
+    "Y": 160
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 112,
+    "Y": 160
+  },
+  {
+    "Name": "furnace_minecart",
+    "DisplayName": "Furnace Minecart",
+    "X": 128,
+    "Y": 160
+  },
+  {
+    "Name": "charcoal",
+    "DisplayName": "Charcoal",
+    "X": 144,
+    "Y": 160
+  },
+  {
+    "Name": "spawn_egg_overlay",
+    "DisplayName": "Spawn Egg Overlay",
+    "X": 160,
+    "Y": 160
+  },
+  {
+    "Name": "ruby",
+    "DisplayName": "Ruby",
+    "X": 176,
+    "Y": 160
+  },
+  {
+    "Name": "experience_bottle",
+    "DisplayName": "Bottle o' Enchanting",
+    "X": 192,
+    "Y": 160
+  },
+  {
+    "Name": "brewing_stand",
+    "DisplayName": "Brewing Stand",
+    "X": 208,
+    "Y": 160
+  },
+  {
+    "Name": "cyan_dye",
+    "DisplayName": "Cyan Dye",
+    "X": 224,
+    "Y": 160
+  },
+  {
+    "Name": "orange_dye",
+    "DisplayName": "Orange Dye",
+    "X": 240,
+    "Y": 160
+  },
+  {
+    "Name": "brown_item_2",
+    "DisplayName": "Brown Item 2",
+    "X": 0,
+    "Y": 176
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 16,
+    "Y": 176
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 32,
+    "Y": 176
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 48,
+    "Y": 176
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 80,
+    "Y": 176
+  },
+  {
+    "Name": "hopper_minecart",
+    "DisplayName": "Hopper Minecart",
+    "X": 112,
+    "Y": 176
+  },
+  {
+    "Name": "hopper",
+    "DisplayName": "Hopper",
+    "X": 128,
+    "Y": 176
+  },
+  {
+    "Name": "nether_star",
+    "DisplayName": "Nether Star",
+    "X": 144,
+    "Y": 176
+  },
+  {
+    "Name": "emerald",
+    "DisplayName": "Emerald",
+    "X": 160,
+    "Y": 176
+  },
+  {
+    "Name": "writable_book",
+    "DisplayName": "Book and Quill",
+    "X": 176,
+    "Y": 176
+  },
+  {
+    "Name": "written_book",
+    "DisplayName": "Written Book",
+    "X": 192,
+    "Y": 176
+  },
+  {
+    "Name": "flower_pot",
+    "DisplayName": "Flower Pot",
+    "X": 208,
+    "Y": 176
+  },
+  {
+    "Name": "light_gray_dye",
+    "DisplayName": "Light Gray Dye",
+    "X": 224,
+    "Y": 176
+  },
+  {
+    "Name": "bone_meal",
+    "DisplayName": "Bone Meal",
+    "X": 240,
+    "Y": 176
+  },
+  {
+    "Name": "brown_item_3",
+    "DisplayName": "Brown Item 3",
+    "X": 0,
+    "Y": 192
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 64,
+    "Y": 192
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 80,
+    "Y": 192
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 96,
+    "Y": 192
+  },
+  {
+    "Name": "tnt_minecart",
+    "DisplayName": "TNT Minecart",
+    "X": 112,
+    "Y": 192
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 128,
+    "Y": 192
+  },
+  {
+    "Name": "firework_rocket",
+    "DisplayName": "Firework Rocket",
+    "X": 144,
+    "Y": 192
+  },
+  {
+    "Name": "firework_star",
+    "DisplayName": "Firework Star",
+    "X": 160,
+    "Y": 192
+  },
+  {
+    "Name": "firework_star_overlay",
+    "DisplayName": "Firework Star Overlay",
+    "X": 176,
+    "Y": 192
+  },
+  {
+    "Name": "quartz",
+    "DisplayName": "Quartz",
+    "X": 192,
+    "Y": 192
+  },
+  {
+    "Name": "map",
+    "DisplayName": "Map",
+    "X": 208,
+    "Y": 192
+  },
+  {
+    "Name": "item_frame",
+    "DisplayName": "Item Frame",
+    "X": 224,
+    "Y": 192
+  },
+  {
+    "Name": "enchanted_book",
+    "DisplayName": "Enchanted Book",
+    "X": 240,
+    "Y": 192
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 32,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 48,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 64,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 80,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 128,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 144,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 160,
+    "Y": 208
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 176,
+    "Y": 208
+  },
+  {
+    "Name": "skeleton_skull",
+    "DisplayName": "Skeleton Skull",
+    "X": 0,
+    "Y": 224
+  },
+  {
+    "Name": "wither_skeleton_skull",
+    "DisplayName": "Wither Skeleton Skull",
+    "X": 16,
+    "Y": 224
+  },
+  {
+    "Name": "zombie_head",
+    "DisplayName": "Zombie Head",
+    "X": 32,
+    "Y": 224
+  },
+  {
+    "Name": "player_head",
+    "DisplayName": "Player Head",
+    "X": 48,
+    "Y": 224
+  },
+  {
+    "Name": "creeper_head",
+    "DisplayName": "Creeper Head",
+    "X": 64,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 80,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 96,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 112,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 128,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 144,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 160,
+    "Y": 224
+  },
+  {
+    "Name": "inventory_overlay",
+    "DisplayName": "Inventory Overlay",
+    "X": 176,
+    "Y": 224
+  },
+  {
+    "Name": "dragon_fireball",
+    "DisplayName": "Dragon Fireball",
+    "X": 240,
+    "Y": 224
+  },
+  {
+    "Name": "music_disc_13",
+    "DisplayName": "Music Disc 13",
+    "X": 0,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_cat",
+    "DisplayName": "Music Disc Cat",
+    "X": 16,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_blocks",
+    "DisplayName": "Music Disc Blocks",
+    "X": 32,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_chirp",
+    "DisplayName": "Music Disc Chirp",
+    "X": 48,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_far",
+    "DisplayName": "Music Disc Far",
+    "X": 64,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_mall",
+    "DisplayName": "Music Disc Mall",
+    "X": 80,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_mellohi",
+    "DisplayName": "Music Disc Mellohi",
+    "X": 96,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_stal",
+    "DisplayName": "Music Disc Stal",
+    "X": 112,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_strad",
+    "DisplayName": "Music Disc Strad",
+    "X": 128,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_ward",
+    "DisplayName": "Music Disc Ward",
+    "X": 144,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_11",
+    "DisplayName": "Music Disc 11",
+    "X": 160,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_wait",
+    "DisplayName": "Music Disc Wait",
+    "X": 176,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_cat",
+    "DisplayName": "Music Disc Cat",
+    "X": 192,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_13",
+    "DisplayName": "Music Disc 13",
+    "X": 208,
+    "Y": 240
+  },
+  {
+    "Name": "music_disc_cat",
+    "DisplayName": "Music Disc Cat",
+    "X": 224,
+    "Y": 240
+  }
+]

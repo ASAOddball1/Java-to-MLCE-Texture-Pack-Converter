@@ -1,0 +1,1868 @@
+[
+  {
+    "Name": "grass_block_top",
+    "DisplayName": "Grass Top",
+    "X": 0,
+    "Y": 0
+  },
+  {
+    "Name": "stone",
+    "DisplayName": "Stone",
+    "X": 16,
+    "Y": 0
+  },
+  {
+    "Name": "dirt",
+    "DisplayName": "Dirt",
+    "X": 32,
+    "Y": 0
+  },
+  {
+    "Name": "grass_block_side",
+    "DisplayName": "Grass Block Side",
+    "X": 48,
+    "Y": 0
+  },
+  {
+    "Name": "oak_planks",
+    "DisplayName": "Oak Planks",
+    "X": 64,
+    "Y": 0
+  },
+  {
+    "Name": "stone_slab_side",
+    "DisplayName": "Stone Slab Side",
+    "X": 80,
+    "Y": 0
+  },
+  {
+    "Name": "stone_slab_top",
+    "DisplayName": "Stone Slab Top",
+    "X": 96,
+    "Y": 0
+  },
+  {
+    "Name": "bricks",
+    "DisplayName": "Bricks",
+    "X": 112,
+    "Y": 0
+  },
+  {
+    "Name": "tnt_side",
+    "DisplayName": "TNT Side",
+    "X": 128,
+    "Y": 0
+  },
+  {
+    "Name": "tnt_top",
+    "DisplayName": "TNT Top",
+    "X": 144,
+    "Y": 0
+  },
+  {
+    "Name": "tnt_bottom",
+    "DisplayName": "TNT Bottom",
+    "X": 160,
+    "Y": 0
+  },
+  {
+    "Name": "cobweb",
+    "DisplayName": "Cobweb",
+    "X": 176,
+    "Y": 0
+  },
+  {
+    "Name": "poppy",
+    "DisplayName": "Poppy",
+    "X": 192,
+    "Y": 0
+  },
+  {
+    "Name": "dandelion",
+    "DisplayName": "Dandelion",
+    "X": 208,
+    "Y": 0
+  },
+  {
+    "Name": "water_still",
+    "DisplayName": "Water Still",
+    "X": 224,
+    "Y": 0
+  },
+  {
+    "Name": "oak_sapling",
+    "DisplayName": "Oak Sapling",
+    "X": 240,
+    "Y": 0
+  },
+  {
+    "Name": "cobblestone",
+    "DisplayName": "Cobblestone",
+    "X": 0,
+    "Y": 16
+  },
+  {
+    "Name": "bedrock",
+    "DisplayName": "Bedrock",
+    "X": 16,
+    "Y": 16
+  },
+  {
+    "Name": "sand",
+    "DisplayName": "Sand",
+    "X": 32,
+    "Y": 16
+  },
+  {
+    "Name": "gravel",
+    "DisplayName": "Gravel",
+    "X": 48,
+    "Y": 16
+  },
+  {
+    "Name": "oak_log",
+    "DisplayName": "Oak Log",
+    "X": 64,
+    "Y": 16
+  },
+  {
+    "Name": "oak_log_top",
+    "DisplayName": "Oak Log Top",
+    "X": 80,
+    "Y": 16
+  },
+  {
+    "Name": "iron_block",
+    "DisplayName": "Iron Block",
+    "X": 96,
+    "Y": 16
+  },
+  {
+    "Name": "gold_block",
+    "DisplayName": "Gold Block",
+    "X": 112,
+    "Y": 16
+  },
+  {
+    "Name": "diamond_block",
+    "DisplayName": "Diamond Block",
+    "X": 128,
+    "Y": 16
+  },
+  {
+    "Name": "emerald_block",
+    "DisplayName": "Emerald Block",
+    "X": 144,
+    "Y": 16
+  },
+  {
+    "Name": "redstone_block",
+    "DisplayName": "Redstone Block",
+    "X": 160,
+    "Y": 16
+  },
+  {
+    "Name": "dropper_front",
+    "DisplayName": "Dropper Front",
+    "X": 176,
+    "Y": 16
+  },
+  {
+    "Name": "red_mushroom",
+    "DisplayName": "Red Mushroom",
+    "X": 192,
+    "Y": 16
+  },
+  {
+    "Name": "brown_mushroom",
+    "DisplayName": "Brown Mushroom",
+    "X": 208,
+    "Y": 16
+  },
+  {
+    "Name": "jungle_sapling",
+    "DisplayName": "Jungle Sapling",
+    "X": 224,
+    "Y": 16
+  },
+  {
+    "Name": "fire_layer_0",
+    "DisplayName": "FireTex1",
+    "X": 240,
+    "Y": 16
+  },
+  {
+    "Name": "gold_ore",
+    "DisplayName": "Gold Ore",
+    "X": 0,
+    "Y": 32
+  },
+  {
+    "Name": "iron_ore",
+    "DisplayName": "Iron Ore",
+    "X": 16,
+    "Y": 32
+  },
+  {
+    "Name": "coal_ore",
+    "DisplayName": "Coal Ore",
+    "X": 32,
+    "Y": 32
+  },
+  {
+    "Name": "bookshelf",
+    "DisplayName": "Bookshelf",
+    "X": 48,
+    "Y": 32
+  },
+  {
+    "Name": "mossy_cobblestone",
+    "DisplayName": "Mossy Cobblestone",
+    "X": 64,
+    "Y": 32
+  },
+  {
+    "Name": "obsidian",
+    "DisplayName": "Obsidian",
+    "X": 80,
+    "Y": 32
+  },
+  {
+    "Name": "grass_block_side_overlay",
+    "DisplayName": "Grass Side Layer",
+    "X": 96,
+    "Y": 32
+  },
+  {
+    "Name": "short_grass",
+    "DisplayName": "Tall Grass",
+    "X": 112,
+    "Y": 32
+  },
+  {
+    "Name": "dispenser_front_vertical",
+    "DisplayName": "Dispenser Top",
+    "X": 128,
+    "Y": 32
+  },
+  {
+    "Name": "dropper_front_vertical",
+    "DisplayName": "Dropper Top",
+    "X": 144,
+    "Y": 32
+  },
+  {
+    "Name": "beacon",
+    "DisplayName": "Beacon",
+    "X": 160,
+    "Y": 32
+  },
+  {
+    "Name": "crafting_table_top",
+    "DisplayName": "Crafting Table Top",
+    "X": 176,
+    "Y": 32
+  },
+  {
+    "Name": "furnace_front",
+    "DisplayName": "Furnace Front Off",
+    "X": 192,
+    "Y": 32
+  },
+  {
+    "Name": "furnace_side",
+    "DisplayName": "Furnace Side",
+    "X": 208,
+    "Y": 32
+  },
+  {
+    "Name": "dispenser_front_horizontal",
+    "DisplayName": "Dispenser Front",
+    "X": 224,
+    "Y": 32
+  },
+  {
+    "Name": "fire_layer_1",
+    "DisplayName": "FireTex2",
+    "X": 240,
+    "Y": 32
+  },
+  {
+    "Name": "sponge",
+    "DisplayName": "Sponge",
+    "X": 0,
+    "Y": 48
+  },
+  {
+    "Name": "glass",
+    "DisplayName": "Glass",
+    "X": 16,
+    "Y": 48
+  },
+  {
+    "Name": "diamond_ore",
+    "DisplayName": "Diamond Ore",
+    "X": 32,
+    "Y": 48
+  },
+  {
+    "Name": "redstone_ore",
+    "DisplayName": "Redstone Ore",
+    "X": 48,
+    "Y": 48
+  },
+  {
+    "Name": "oak_leaves",
+    "DisplayName": "Oak Leaves",
+    "X": 64,
+    "Y": 48
+  },
+  {
+    "Name": "oak_leaves_opaque",
+    "DisplayName": "Oak Leaves Opaque",
+    "X": 80,
+    "Y": 48
+  },
+  {
+    "Name": "stone_bricks",
+    "DisplayName": "Stone Bricks",
+    "X": 96,
+    "Y": 48
+  },
+  {
+    "Name": "dead_bush",
+    "DisplayName": "Dead Bush",
+    "X": 112,
+    "Y": 48
+  },
+  {
+    "Name": "fern",
+    "DisplayName": "Fern",
+    "X": 128,
+    "Y": 48
+  },
+  {
+    "Name": "daylight_detector_top",
+    "DisplayName": "Daylight Sensor Top",
+    "X": 144,
+    "Y": 48
+  },
+  {
+    "Name": "daylight_detector_inverted_top",
+    "DisplayName": "Daylight Sensor Bottom",
+    "X": 160,
+    "Y": 48
+  },
+  {
+    "Name": "crafting_table_side",
+    "DisplayName": "Crafting Table Side",
+    "X": 176,
+    "Y": 48
+  },
+  {
+    "Name": "crafting_table_front",
+    "DisplayName": "Crafting Table Front",
+    "X": 192,
+    "Y": 48
+  },
+  {
+    "Name": "furnace_front_on",
+    "DisplayName": "Furnace Front On",
+    "X": 208,
+    "Y": 48
+  },
+  {
+    "Name": "furnace_top",
+    "DisplayName": "Furnace Top",
+    "X": 224,
+    "Y": 48
+  },
+  {
+    "Name": "spruce_sapling",
+    "DisplayName": "Spruce Sapling",
+    "X": 240,
+    "Y": 48
+  },
+  {
+    "Name": "white_wool",
+    "DisplayName": "White Wool",
+    "X": 0,
+    "Y": 64
+  },
+  {
+    "Name": "spawner",
+    "DisplayName": "Monster Spawner",
+    "X": 16,
+    "Y": 64
+  },
+  {
+    "Name": "snow",
+    "DisplayName": "Snow",
+    "X": 32,
+    "Y": 64
+  },
+  {
+    "Name": "ice",
+    "DisplayName": "Ice",
+    "X": 48,
+    "Y": 64
+  },
+  {
+    "Name": "grass_block_snow",
+    "DisplayName": "Snowy Grass Side",
+    "X": 64,
+    "Y": 64
+  },
+  {
+    "Name": "cactus_top",
+    "DisplayName": "Cactus Top",
+    "X": 80,
+    "Y": 64
+  },
+  {
+    "Name": "cactus_side",
+    "DisplayName": "Cactus Side",
+    "X": 96,
+    "Y": 64
+  },
+  {
+    "Name": "cactus_bottom",
+    "DisplayName": "Cactus Bottom",
+    "X": 112,
+    "Y": 64
+  },
+  {
+    "Name": "clay",
+    "DisplayName": "Clay",
+    "X": 128,
+    "Y": 64
+  },
+  {
+    "Name": "sugar_cane",
+    "DisplayName": "Sugar Cane",
+    "X": 144,
+    "Y": 64
+  },
+  {
+    "Name": "jukebox_side",
+    "DisplayName": "Jukebox Side",
+    "X": 160,
+    "Y": 64
+  },
+  {
+    "Name": "jukebox_top",
+    "DisplayName": "Jukebox Top",
+    "X": 176,
+    "Y": 64
+  },
+  {
+    "Name": "lily_pad",
+    "DisplayName": "Lily Pad",
+    "X": 192,
+    "Y": 64
+  },
+  {
+    "Name": "mycelium_side",
+    "DisplayName": "Mycelium Side",
+    "X": 208,
+    "Y": 64
+  },
+  {
+    "Name": "mycelium_top",
+    "DisplayName": "Mycelium Top",
+    "X": 224,
+    "Y": 64
+  },
+  {
+    "Name": "birch_sapling",
+    "DisplayName": "Birch Sapling",
+    "X": 240,
+    "Y": 64
+  },
+  {
+    "Name": "torch",
+    "DisplayName": "Torch",
+    "X": 0,
+    "Y": 80
+  },
+  {
+    "Name": "oak_door_top",
+    "DisplayName": "Oak Door Top",
+    "X": 16,
+    "Y": 80
+  },
+  {
+    "Name": "iron_door_top",
+    "DisplayName": "Iron Door Top",
+    "X": 32,
+    "Y": 80
+  },
+  {
+    "Name": "ladder",
+    "DisplayName": "Ladder",
+    "X": 48,
+    "Y": 80
+  },
+  {
+    "Name": "oak_trapdoor",
+    "DisplayName": "Oak Trapdoor",
+    "X": 64,
+    "Y": 80
+  },
+  {
+    "Name": "iron_bars",
+    "DisplayName": "Iron Bars",
+    "X": 80,
+    "Y": 80
+  },
+  {
+    "Name": "farmland_moist",
+    "DisplayName": "Farmland Wet",
+    "X": 96,
+    "Y": 80
+  },
+  {
+    "Name": "farmland",
+    "DisplayName": "Farmland Dry",
+    "X": 112,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage0",
+    "DisplayName": "Wheat Stage 0",
+    "X": 128,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage1",
+    "DisplayName": "Wheat Stage 1",
+    "X": 144,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage2",
+    "DisplayName": "Wheat Stage 2",
+    "X": 160,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage3",
+    "DisplayName": "Wheat Stage 3",
+    "X": 176,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage4",
+    "DisplayName": "Wheat Stage 4",
+    "X": 192,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage5",
+    "DisplayName": "Wheat Stage 5",
+    "X": 208,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage6",
+    "DisplayName": "Wheat Stage 6",
+    "X": 224,
+    "Y": 80
+  },
+  {
+    "Name": "wheat_stage7",
+    "DisplayName": "Wheat Stage 7",
+    "X": 240,
+    "Y": 80
+  },
+  {
+    "Name": "lever",
+    "DisplayName": "Lever",
+    "X": 0,
+    "Y": 96
+  },
+  {
+    "Name": "oak_door_bottom",
+    "DisplayName": "Oak Door Bottom",
+    "X": 16,
+    "Y": 96
+  },
+  {
+    "Name": "iron_door_bottom",
+    "DisplayName": "Iron Door Bottom",
+    "X": 32,
+    "Y": 96
+  },
+  {
+    "Name": "redstone_torch",
+    "DisplayName": "Redstone Torch On",
+    "X": 48,
+    "Y": 96
+  },
+  {
+    "Name": "mossy_stone_bricks",
+    "DisplayName": "Mossy Stone Bricks",
+    "X": 64,
+    "Y": 96
+  },
+  {
+    "Name": "cracked_stone_bricks",
+    "DisplayName": "Cracked Stone Bricks",
+    "X": 80,
+    "Y": 96
+  },
+  {
+    "Name": "pumpkin_top",
+    "DisplayName": "Pumpkin Top",
+    "X": 96,
+    "Y": 96
+  },
+  {
+    "Name": "netherrack",
+    "DisplayName": "Netherrack",
+    "X": 112,
+    "Y": 96
+  },
+  {
+    "Name": "soul_sand",
+    "DisplayName": "Soul Sand",
+    "X": 128,
+    "Y": 96
+  },
+  {
+    "Name": "glowstone",
+    "DisplayName": "Glowstone",
+    "X": 144,
+    "Y": 96
+  },
+  {
+    "Name": "piston_top_sticky",
+    "DisplayName": "Sticky Piston Front",
+    "X": 160,
+    "Y": 96
+  },
+  {
+    "Name": "piston_top",
+    "DisplayName": "Piston Front",
+    "X": 176,
+    "Y": 96
+  },
+  {
+    "Name": "piston_side",
+    "DisplayName": "Piston Side",
+    "X": 192,
+    "Y": 96
+  },
+  {
+    "Name": "piston_bottom",
+    "DisplayName": "Piston Bottom",
+    "X": 208,
+    "Y": 96
+  },
+  {
+    "Name": "piston_inner",
+    "DisplayName": "Piston Inner",
+    "X": 224,
+    "Y": 96
+  },
+  {
+    "Name": "pumpkin_stem",
+    "DisplayName": "Pumpkin Stem",
+    "X": 240,
+    "Y": 96
+  },
+  {
+    "Name": "rail_corner",
+    "DisplayName": "Curved Rail",
+    "X": 0,
+    "Y": 112
+  },
+  {
+    "Name": "black_wool",
+    "DisplayName": "Black Wool",
+    "X": 16,
+    "Y": 112
+  },
+  {
+    "Name": "gray_wool",
+    "DisplayName": "Dark Gray Wool",
+    "X": 32,
+    "Y": 112
+  },
+  {
+    "Name": "redstone_torch_off",
+    "DisplayName": "Redstone Torch Off",
+    "X": 48,
+    "Y": 112
+  },
+  {
+    "Name": "spruce_log",
+    "DisplayName": "Spruce Log",
+    "X": 64,
+    "Y": 112
+  },
+  {
+    "Name": "birch_log",
+    "DisplayName": "Birch Log",
+    "X": 80,
+    "Y": 112
+  },
+  {
+    "Name": "pumpkin_side",
+    "DisplayName": "Pumpkin Side",
+    "X": 96,
+    "Y": 112
+  },
+  {
+    "Name": "carved_pumpkin",
+    "DisplayName": "Carved Pumpkin",
+    "X": 112,
+    "Y": 112
+  },
+  {
+    "Name": "jack_o_lantern",
+    "DisplayName": "Jack o Lantern",
+    "X": 128,
+    "Y": 112
+  },
+  {
+    "Name": "cake_top",
+    "DisplayName": "Cake Top",
+    "X": 144,
+    "Y": 112
+  },
+  {
+    "Name": "cake_side",
+    "DisplayName": "Cake Side",
+    "X": 160,
+    "Y": 112
+  },
+  {
+    "Name": "cake_side_inner",
+    "DisplayName": "Cake Eaten Side",
+    "X": 176,
+    "Y": 112
+  },
+  {
+    "Name": "cake_bottom",
+    "DisplayName": "Cake Bottom",
+    "X": 192,
+    "Y": 112
+  },
+  {
+    "Name": "red_mushroom_block",
+    "DisplayName": "Red Mushroom Block",
+    "X": 208,
+    "Y": 112
+  },
+  {
+    "Name": "brown_mushroom_block",
+    "DisplayName": "Brown Mushroom Block",
+    "X": 224,
+    "Y": 112
+  },
+  {
+    "Name": "attached_pumpkin_stem",
+    "DisplayName": "Pumpkin Stem Connected",
+    "X": 240,
+    "Y": 112
+  },
+  {
+    "Name": "rail",
+    "DisplayName": "Rail",
+    "X": 0,
+    "Y": 128
+  },
+  {
+    "Name": "red_wool",
+    "DisplayName": "Red Wool",
+    "X": 16,
+    "Y": 128
+  },
+  {
+    "Name": "pink_wool",
+    "DisplayName": "Pink Wool",
+    "X": 32,
+    "Y": 128
+  },
+  {
+    "Name": "repeater",
+    "DisplayName": "Repeater Off",
+    "X": 48,
+    "Y": 128
+  },
+  {
+    "Name": "spruce_leaves",
+    "DisplayName": "Spruce Leaves",
+    "X": 64,
+    "Y": 128
+  },
+  {
+    "Name": "spruce_leaves_opaque",
+    "DisplayName": "Spruce Leaves Opaque",
+    "X": 80,
+    "Y": 128
+  },
+  {
+    "Name": "bed_foot_top",
+    "DisplayName": "Bed Foot Top",
+    "X": 96,
+    "Y": 128
+  },
+  {
+    "Name": "bed_head_top",
+    "DisplayName": "Bed Head Top",
+    "X": 112,
+    "Y": 128
+  },
+  {
+    "Name": "melon_side",
+    "DisplayName": "Watermelon Side",
+    "X": 128,
+    "Y": 128
+  },
+  {
+    "Name": "melon_top",
+    "DisplayName": "Watermelon Top",
+    "X": 144,
+    "Y": 128
+  },
+  {
+    "Name": "cauldron_top",
+    "DisplayName": "Cauldron Top",
+    "X": 160,
+    "Y": 128
+  },
+  {
+    "Name": "cauldron_bottom",
+    "DisplayName": "Cauldron Bottom",
+    "X": 176,
+    "Y": 128
+  },
+  {
+    "Name": "purple_texture",
+    "DisplayName": "Purple Texture",
+    "X": 192,
+    "Y": 128
+  },
+  {
+    "Name": "mushroom_stem",
+    "DisplayName": "Mushroom Stem",
+    "X": 208,
+    "Y": 128
+  },
+  {
+    "Name": "mushroom_block_inside",
+    "DisplayName": "Mushroom Block Inside",
+    "X": 224,
+    "Y": 128
+  },
+  {
+    "Name": "vine",
+    "DisplayName": "Vine",
+    "X": 240,
+    "Y": 128
+  },
+  {
+    "Name": "lapis_block",
+    "DisplayName": "Lapis Block",
+    "X": 0,
+    "Y": 144
+  },
+  {
+    "Name": "green_wool",
+    "DisplayName": "Green Wool",
+    "X": 16,
+    "Y": 144
+  },
+  {
+    "Name": "lime_wool",
+    "DisplayName": "Lime Wool",
+    "X": 32,
+    "Y": 144
+  },
+  {
+    "Name": "repeater_on",
+    "DisplayName": "Repeater On",
+    "X": 48,
+    "Y": 144
+  },
+  {
+    "Name": "glass_pane_top",
+    "DisplayName": "Glass Pane Top",
+    "X": 64,
+    "Y": 144
+  },
+  {
+    "Name": "bed_foot_end",
+    "DisplayName": "Bed Front Foot",
+    "X": 80,
+    "Y": 144
+  },
+  {
+    "Name": "bed_foot_side",
+    "DisplayName": "Bed Side Foot",
+    "X": 96,
+    "Y": 144
+  },
+  {
+    "Name": "bed_head_side",
+    "DisplayName": "Bed Side Head",
+    "X": 112,
+    "Y": 144
+  },
+  {
+    "Name": "bed_head_end",
+    "DisplayName": "Bed Front Head",
+    "X": 128,
+    "Y": 144
+  },
+  {
+    "Name": "jungle_log",
+    "DisplayName": "Jungle Log",
+    "X": 144,
+    "Y": 144
+  },
+  {
+    "Name": "cauldron_side",
+    "DisplayName": "Cauldron Side",
+    "X": 160,
+    "Y": 144
+  },
+  {
+    "Name": "cauldron_feet",
+    "DisplayName": "Cauldron Feet",
+    "X": 176,
+    "Y": 144
+  },
+  {
+    "Name": "brewing_stand_base",
+    "DisplayName": "Brewing Stand Base",
+    "X": 192,
+    "Y": 144
+  },
+  {
+    "Name": "brewing_stand",
+    "DisplayName": "Brewing Stand",
+    "X": 208,
+    "Y": 144
+  },
+  {
+    "Name": "end_portal_frame_top",
+    "DisplayName": "End Portal Frame Top",
+    "X": 224,
+    "Y": 144
+  },
+  {
+    "Name": "end_portal_frame_side",
+    "DisplayName": "End Portal Frame Side",
+    "X": 240,
+    "Y": 144
+  },
+  {
+    "Name": "lapis_ore",
+    "DisplayName": "Lapis Ore",
+    "X": 0,
+    "Y": 160
+  },
+  {
+    "Name": "brown_wool",
+    "DisplayName": "Brown Wool",
+    "X": 16,
+    "Y": 160
+  },
+  {
+    "Name": "yellow_wool",
+    "DisplayName": "Yellow Wool",
+    "X": 32,
+    "Y": 160
+  },
+  {
+    "Name": "powered_rail",
+    "DisplayName": "Powered Rail Off",
+    "X": 48,
+    "Y": 160
+  },
+  {
+    "Name": "redstone_dust_dot",
+    "DisplayName": "Redstone Cross",
+    "X": 64,
+    "Y": 160
+  },
+  {
+    "Name": "redstone_dust_line0",
+    "DisplayName": "Redstone Straight",
+    "X": 80,
+    "Y": 160
+  },
+  {
+    "Name": "enchanting_table_top",
+    "DisplayName": "Enchanting Table Top",
+    "X": 96,
+    "Y": 160
+  },
+  {
+    "Name": "dragon_egg",
+    "DisplayName": "Dragon Egg",
+    "X": 112,
+    "Y": 160
+  },
+  {
+    "Name": "cocoa_stage2",
+    "DisplayName": "Cocoa Stage 2",
+    "X": 128,
+    "Y": 160
+  },
+  {
+    "Name": "cocoa_stage1",
+    "DisplayName": "Cocoa Stage 1",
+    "X": 144,
+    "Y": 160
+  },
+  {
+    "Name": "cocoa_stage0",
+    "DisplayName": "Cocoa Stage 0",
+    "X": 160,
+    "Y": 160
+  },
+  {
+    "Name": "emerald_ore",
+    "DisplayName": "Emerald Ore",
+    "X": 176,
+    "Y": 160
+  },
+  {
+    "Name": "tripwire_hook",
+    "DisplayName": "Tripwire Hook",
+    "X": 192,
+    "Y": 160
+  },
+  {
+    "Name": "tripwire",
+    "DisplayName": "Tripwire",
+    "X": 208,
+    "Y": 160
+  },
+  {
+    "Name": "end_portal_frame_eye",
+    "DisplayName": "End Portal Eye",
+    "X": 224,
+    "Y": 160
+  },
+  {
+    "Name": "end_stone",
+    "DisplayName": "End Stone",
+    "X": 240,
+    "Y": 160
+  },
+  {
+    "Name": "sandstone_top",
+    "DisplayName": "Sandstone Top",
+    "X": 0,
+    "Y": 176
+  },
+  {
+    "Name": "blue_wool",
+    "DisplayName": "Blue Wool",
+    "X": 16,
+    "Y": 176
+  },
+  {
+    "Name": "light_blue_wool",
+    "DisplayName": "Light Blue Wool",
+    "X": 32,
+    "Y": 176
+  },
+  {
+    "Name": "powered_rail_on",
+    "DisplayName": "Powered Rail On",
+    "X": 48,
+    "Y": 176
+  },
+  {
+    "Name": "enchanting_table_side",
+    "DisplayName": "Enchanting Table Side",
+    "X": 96,
+    "Y": 176
+  },
+  {
+    "Name": "enchanting_table_bottom",
+    "DisplayName": "Enchanting Table Bottom",
+    "X": 112,
+    "Y": 176
+  },
+  {
+    "Name": "command_block",
+    "DisplayName": "Command Block",
+    "X": 128,
+    "Y": 176
+  },
+  {
+    "Name": "item_frame",
+    "DisplayName": "Item Frame",
+    "X": 144,
+    "Y": 176
+  },
+  {
+    "Name": "flower_pot",
+    "DisplayName": "Flower Pot",
+    "X": 160,
+    "Y": 176
+  },
+  {
+    "Name": "comparator",
+    "DisplayName": "Comparator Off",
+    "X": 176,
+    "Y": 176
+  },
+  {
+    "Name": "comparator_on",
+    "DisplayName": "Comparator On",
+    "X": 192,
+    "Y": 176
+  },
+  {
+    "Name": "activator_rail",
+    "DisplayName": "Activator Rail Off",
+    "X": 208,
+    "Y": 176
+  },
+  {
+    "Name": "activator_rail_on",
+    "DisplayName": "Activator Rail On",
+    "X": 224,
+    "Y": 176
+  },
+  {
+    "Name": "nether_quartz_ore",
+    "DisplayName": "Quartz Ore",
+    "X": 240,
+    "Y": 176
+  },
+  {
+    "Name": "sandstone",
+    "DisplayName": "Sandstone Side",
+    "X": 0,
+    "Y": 192
+  },
+  {
+    "Name": "purple_wool",
+    "DisplayName": "Purple Wool",
+    "X": 16,
+    "Y": 192
+  },
+  {
+    "Name": "magenta_wool",
+    "DisplayName": "Magenta Wool",
+    "X": 32,
+    "Y": 192
+  },
+  {
+    "Name": "detector_rail",
+    "DisplayName": "Detector Rail",
+    "X": 48,
+    "Y": 192
+  },
+  {
+    "Name": "jungle_leaves",
+    "DisplayName": "Jungle Leaves",
+    "X": 64,
+    "Y": 192
+  },
+  {
+    "Name": "jungle_leaves_opaque",
+    "DisplayName": "Jungle Leaves Opaque",
+    "X": 80,
+    "Y": 192
+  },
+  {
+    "Name": "spruce_planks",
+    "DisplayName": "Spruce Planks",
+    "X": 96,
+    "Y": 192
+  },
+  {
+    "Name": "jungle_planks",
+    "DisplayName": "Jungle Planks",
+    "X": 112,
+    "Y": 192
+  },
+  {
+    "Name": "carrots_stage0",
+    "DisplayName": "Carrot Stage 0",
+    "X": 128,
+    "Y": 192
+  },
+  {
+    "Name": "carrots_stage1",
+    "DisplayName": "Carrot Stage 1",
+    "X": 144,
+    "Y": 192
+  },
+  {
+    "Name": "carrots_stage2",
+    "DisplayName": "Carrot Stage 2",
+    "X": 160,
+    "Y": 192
+  },
+  {
+    "Name": "carrots_stage3",
+    "DisplayName": "Carrot Stage 3",
+    "X": 176,
+    "Y": 192
+  },
+  {
+    "Name": "water_flow",
+    "DisplayName": "Water Flow",
+    "X": 208,
+    "Y": 192
+  },
+  {
+    "Name": "water_flow_1",
+    "DisplayName": "Water Flow 1",
+    "X": 224,
+    "Y": 192
+  },
+  {
+    "Name": "water_flow_2",
+    "DisplayName": "Water Flow 2",
+    "X": 240,
+    "Y": 192
+  },
+  {
+    "Name": "sandstone_bottom",
+    "DisplayName": "Sandstone Bottom",
+    "X": 0,
+    "Y": 208
+  },
+  {
+    "Name": "cyan_wool",
+    "DisplayName": "Cyan Wool",
+    "X": 16,
+    "Y": 208
+  },
+  {
+    "Name": "orange_wool",
+    "DisplayName": "Orange Wool",
+    "X": 32,
+    "Y": 208
+  },
+  {
+    "Name": "redstone_lamp",
+    "DisplayName": "Redstone Lamp Off",
+    "X": 48,
+    "Y": 208
+  },
+  {
+    "Name": "redstone_lamp_on",
+    "DisplayName": "Redstone Lamp On",
+    "X": 64,
+    "Y": 208
+  },
+  {
+    "Name": "chiseled_stone_bricks",
+    "DisplayName": "Chiseled Stone Bricks",
+    "X": 80,
+    "Y": 208
+  },
+  {
+    "Name": "birch_planks",
+    "DisplayName": "Birch Planks",
+    "X": 96,
+    "Y": 208
+  },
+  {
+    "Name": "anvil",
+    "DisplayName": "Anvil Bottom",
+    "X": 112,
+    "Y": 208
+  },
+  {
+    "Name": "chipped_anvil_top",
+    "DisplayName": "Damaged Anvil Top",
+    "X": 128,
+    "Y": 208
+  },
+  {
+    "Name": "chiseled_quartz_block_top",
+    "DisplayName": "Chiseled Quartz Top",
+    "X": 144,
+    "Y": 208
+  },
+  {
+    "Name": "quartz_pillar_top",
+    "DisplayName": "Pillar Quartz Top",
+    "X": 160,
+    "Y": 208
+  },
+  {
+    "Name": "quartz_block_top",
+    "DisplayName": "Quartz Block Top",
+    "X": 176,
+    "Y": 208
+  },
+  {
+    "Name": "hopper_outside",
+    "DisplayName": "Hopper Side",
+    "X": 192,
+    "Y": 208
+  },
+  {
+    "Name": "detector_rail_on",
+    "DisplayName": "Detector Rail On",
+    "X": 208,
+    "Y": 208
+  },
+  {
+    "Name": "water_flow_3",
+    "DisplayName": "Water Flow 3",
+    "X": 224,
+    "Y": 208
+  },
+  {
+    "Name": "water_flow_4",
+    "DisplayName": "Water Flow 4",
+    "X": 240,
+    "Y": 208
+  },
+  {
+    "Name": "nether_bricks",
+    "DisplayName": "Nether Brick",
+    "X": 0,
+    "Y": 224
+  },
+  {
+    "Name": "light_gray_wool",
+    "DisplayName": "Light Gray Wool",
+    "X": 16,
+    "Y": 224
+  },
+  {
+    "Name": "nether_wart_stage0",
+    "DisplayName": "Nether Wart Stage 0",
+    "X": 32,
+    "Y": 224
+  },
+  {
+    "Name": "nether_wart_stage1",
+    "DisplayName": "Nether Wart Stage 1",
+    "X": 48,
+    "Y": 224
+  },
+  {
+    "Name": "nether_wart_stage2",
+    "DisplayName": "Nether Wart Stage 2",
+    "X": 64,
+    "Y": 224
+  },
+  {
+    "Name": "chiseled_sandstone",
+    "DisplayName": "Chiseled Sandstone",
+    "X": 80,
+    "Y": 224
+  },
+  {
+    "Name": "smooth_sandstone",
+    "DisplayName": "Smooth Sandstone",
+    "X": 96,
+    "Y": 224
+  },
+  {
+    "Name": "anvil_top",
+    "DisplayName": "Anvil Top",
+    "X": 112,
+    "Y": 224
+  },
+  {
+    "Name": "damaged_anvil_top",
+    "DisplayName": "Heavily Damaged Anvil Top",
+    "X": 128,
+    "Y": 224
+  },
+  {
+    "Name": "chiseled_quartz_block",
+    "DisplayName": "Chiseled Quartz Side",
+    "X": 144,
+    "Y": 224
+  },
+  {
+    "Name": "quartz_pillar",
+    "DisplayName": "Pillar Quartz Side",
+    "X": 160,
+    "Y": 224
+  },
+  {
+    "Name": "quartz_block_side",
+    "DisplayName": "Quartz Block Side",
+    "X": 176,
+    "Y": 224
+  },
+  {
+    "Name": "hopper_inside",
+    "DisplayName": "Hopper Inside",
+    "X": 192,
+    "Y": 224
+  },
+  {
+    "Name": "lava_still",
+    "DisplayName": "Lava Still",
+    "X": 208,
+    "Y": 224
+  },
+  {
+    "Name": "lava_flow",
+    "DisplayName": "Lava Flow 0",
+    "X": 224,
+    "Y": 224
+  },
+  {
+    "Name": "lava_flow_1",
+    "DisplayName": "Lava Flow 1",
+    "X": 240,
+    "Y": 224
+  },
+  {
+    "Name": "destroy_stage_0",
+    "DisplayName": "Block Break 0",
+    "X": 0,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_1",
+    "DisplayName": "Block Break 1",
+    "X": 16,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_2",
+    "DisplayName": "Block Break 2",
+    "X": 32,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_3",
+    "DisplayName": "Block Break 3",
+    "X": 48,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_4",
+    "DisplayName": "Block Break 4",
+    "X": 64,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_5",
+    "DisplayName": "Block Break 5",
+    "X": 80,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_6",
+    "DisplayName": "Block Break 6",
+    "X": 96,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_7",
+    "DisplayName": "Block Break 7",
+    "X": 112,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_8",
+    "DisplayName": "Block Break 8",
+    "X": 128,
+    "Y": 240
+  },
+  {
+    "Name": "destroy_stage_9",
+    "DisplayName": "Block Break 9",
+    "X": 144,
+    "Y": 240
+  },
+  {
+    "Name": "hay_block_side",
+    "DisplayName": "Hay Bale Side",
+    "X": 160,
+    "Y": 240
+  },
+  {
+    "Name": "quartz_block_bottom",
+    "DisplayName": "Quartz Block Bottom",
+    "X": 176,
+    "Y": 240
+  },
+  {
+    "Name": "hopper_top",
+    "DisplayName": "Hopper Top",
+    "X": 192,
+    "Y": 240
+  },
+  {
+    "Name": "hay_block_top",
+    "DisplayName": "Hay Bale Top",
+    "X": 208,
+    "Y": 240
+  },
+  {
+    "Name": "lava_flow_2",
+    "DisplayName": "Lava Flow 2",
+    "X": 224,
+    "Y": 240
+  },
+  {
+    "Name": "lava_flow_3",
+    "DisplayName": "Lava Flow 3",
+    "X": 240,
+    "Y": 240
+  },
+  {
+    "Name": "coal_block",
+    "DisplayName": "Coal Block",
+    "X": 0,
+    "Y": 256
+  },
+  {
+    "Name": "terracotta",
+    "DisplayName": "Hardened Clay",
+    "X": 16,
+    "Y": 256
+  },
+  {
+    "Name": "note_block",
+    "DisplayName": "Note Block",
+    "X": 32,
+    "Y": 256
+  },
+  {
+    "Name": "potatoes_stage0",
+    "DisplayName": "Potato Stage 0",
+    "X": 144,
+    "Y": 256
+  },
+  {
+    "Name": "potatoes_stage1",
+    "DisplayName": "Potato Stage 1",
+    "X": 160,
+    "Y": 256
+  },
+  {
+    "Name": "potatoes_stage2",
+    "DisplayName": "Potato Stage 2",
+    "X": 176,
+    "Y": 256
+  },
+  {
+    "Name": "potatoes_stage3",
+    "DisplayName": "Potato Stage 3",
+    "X": 192,
+    "Y": 256
+  },
+  {
+    "Name": "spruce_log_top",
+    "DisplayName": "Spruce Log Top",
+    "X": 208,
+    "Y": 256
+  },
+  {
+    "Name": "jungle_log_top",
+    "DisplayName": "Jungle Log Top",
+    "X": 224,
+    "Y": 256
+  },
+  {
+    "Name": "birch_log_top",
+    "DisplayName": "Birch Log Top",
+    "X": 240,
+    "Y": 256
+  },
+  {
+    "Name": "black_terracotta",
+    "DisplayName": "Black Hardened Clay",
+    "X": 0,
+    "Y": 272
+  },
+  {
+    "Name": "blue_terracotta",
+    "DisplayName": "Blue Hardened Clay",
+    "X": 16,
+    "Y": 272
+  },
+  {
+    "Name": "brown_terracotta",
+    "DisplayName": "Brown Hardened Clay",
+    "X": 32,
+    "Y": 272
+  },
+  {
+    "Name": "cyan_terracotta",
+    "DisplayName": "Cyan Hardened Clay",
+    "X": 48,
+    "Y": 272
+  },
+  {
+    "Name": "gray_terracotta",
+    "DisplayName": "Dark Grey Hardened Clay",
+    "X": 64,
+    "Y": 272
+  },
+  {
+    "Name": "green_terracotta",
+    "DisplayName": "Green Hardened Clay",
+    "X": 80,
+    "Y": 272
+  },
+  {
+    "Name": "light_blue_terracotta",
+    "DisplayName": "Light Blue Hardened Clay",
+    "X": 96,
+    "Y": 272
+  },
+  {
+    "Name": "lime_terracotta",
+    "DisplayName": "Lime Hardened Clay",
+    "X": 112,
+    "Y": 272
+  },
+  {
+    "Name": "magenta_terracotta",
+    "DisplayName": "Magenta Hardened Clay",
+    "X": 128,
+    "Y": 272
+  },
+  {
+    "Name": "orange_terracotta",
+    "DisplayName": "Orange Hardened Clay",
+    "X": 144,
+    "Y": 272
+  },
+  {
+    "Name": "pink_terracotta",
+    "DisplayName": "Pink Hardened Clay",
+    "X": 160,
+    "Y": 272
+  },
+  {
+    "Name": "purple_terracotta",
+    "DisplayName": "Purple Hardened Clay",
+    "X": 176,
+    "Y": 272
+  },
+  {
+    "Name": "red_terracotta",
+    "DisplayName": "Red Hardened Clay",
+    "X": 192,
+    "Y": 272
+  },
+  {
+    "Name": "light_gray_terracotta",
+    "DisplayName": "Light Grey Hardened Clay",
+    "X": 208,
+    "Y": 272
+  },
+  {
+    "Name": "white_terracotta",
+    "DisplayName": "White Hardened Clay",
+    "X": 224,
+    "Y": 272
+  },
+  {
+    "Name": "yellow_terracotta",
+    "DisplayName": "Yellow Hardened Clay",
+    "X": 240,
+    "Y": 272
+  },
+  {
+    "Name": "black_stained_glass",
+    "DisplayName": "Black Glass",
+    "X": 0,
+    "Y": 288
+  },
+  {
+    "Name": "blue_stained_glass",
+    "DisplayName": "Blue Glass",
+    "X": 16,
+    "Y": 288
+  },
+  {
+    "Name": "brown_stained_glass",
+    "DisplayName": "Brown Glass",
+    "X": 32,
+    "Y": 288
+  },
+  {
+    "Name": "cyan_stained_glass",
+    "DisplayName": "Cyan Glass",
+    "X": 48,
+    "Y": 288
+  },
+  {
+    "Name": "gray_stained_glass",
+    "DisplayName": "Dark Grey Glass",
+    "X": 64,
+    "Y": 288
+  },
+  {
+    "Name": "green_stained_glass",
+    "DisplayName": "Green Glass",
+    "X": 80,
+    "Y": 288
+  },
+  {
+    "Name": "light_blue_stained_glass",
+    "DisplayName": "Light Blue Glass",
+    "X": 96,
+    "Y": 288
+  },
+  {
+    "Name": "lime_stained_glass",
+    "DisplayName": "Lime Glass",
+    "X": 112,
+    "Y": 288
+  },
+  {
+    "Name": "magenta_stained_glass",
+    "DisplayName": "Magenta Glass",
+    "X": 128,
+    "Y": 288
+  },
+  {
+    "Name": "orange_stained_glass",
+    "DisplayName": "Orange Glass",
+    "X": 144,
+    "Y": 288
+  },
+  {
+    "Name": "pink_stained_glass",
+    "DisplayName": "Pink Glass",
+    "X": 160,
+    "Y": 288
+  },
+  {
+    "Name": "purple_stained_glass",
+    "DisplayName": "Purple Glass",
+    "X": 176,
+    "Y": 288
+  },
+  {
+    "Name": "red_stained_glass",
+    "DisplayName": "Red Glass",
+    "X": 192,
+    "Y": 288
+  },
+  {
+    "Name": "light_gray_stained_glass",
+    "DisplayName": "Light Grey Glass",
+    "X": 208,
+    "Y": 288
+  },
+  {
+    "Name": "white_stained_glass",
+    "DisplayName": "White Glass",
+    "X": 224,
+    "Y": 288
+  },
+  {
+    "Name": "yellow_stained_glass",
+    "DisplayName": "Yellow Glass",
+    "X": 240,
+    "Y": 288
+  },
+  {
+    "Name": "black_stained_glass_pane_top",
+    "DisplayName": "Black Glass Pane Top",
+    "X": 0,
+    "Y": 304
+  },
+  {
+    "Name": "blue_stained_glass_pane_top",
+    "DisplayName": "Blue Glass Pane Top",
+    "X": 16,
+    "Y": 304
+  },
+  {
+    "Name": "brown_stained_glass_pane_top",
+    "DisplayName": "Brown Glass Pane Top",
+    "X": 32,
+    "Y": 304
+  },
+  {
+    "Name": "cyan_stained_glass_pane_top",
+    "DisplayName": "Cyan Glass Pane Top",
+    "X": 48,
+    "Y": 304
+  },
+  {
+    "Name": "gray_stained_glass_pane_top",
+    "DisplayName": "Dark Grey Glass Pane Top",
+    "X": 64,
+    "Y": 304
+  },
+  {
+    "Name": "green_stained_glass_pane_top",
+    "DisplayName": "Green Glass Pane Top",
+    "X": 80,
+    "Y": 304
+  },
+  {
+    "Name": "light_blue_stained_glass_pane_top",
+    "DisplayName": "Light Blue Glass Pane Top",
+    "X": 96,
+    "Y": 304
+  },
+  {
+    "Name": "lime_stained_glass_pane_top",
+    "DisplayName": "Lime Glass Pane Top",
+    "X": 112,
+    "Y": 304
+  },
+  {
+    "Name": "magenta_stained_glass_pane_top",
+    "DisplayName": "Magenta Glass Pane Top",
+    "X": 128,
+    "Y": 304
+  },
+  {
+    "Name": "orange_stained_glass_pane_top",
+    "DisplayName": "Orange Glass Pane Top",
+    "X": 144,
+    "Y": 304
+  },
+  {
+    "Name": "pink_stained_glass_pane_top",
+    "DisplayName": "Pink Glass Pane Top",
+    "X": 160,
+    "Y": 304
+  },
+  {
+    "Name": "purple_stained_glass_pane_top",
+    "DisplayName": "Purple Glass Pane Top",
+    "X": 176,
+    "Y": 304
+  },
+  {
+    "Name": "red_stained_glass_pane_top",
+    "DisplayName": "Red Glass Pane Top",
+    "X": 192,
+    "Y": 304
+  },
+  {
+    "Name": "light_gray_stained_glass_pane_top",
+    "DisplayName": "Light Grey Glass Pane Top",
+    "X": 208,
+    "Y": 304
+  },
+  {
+    "Name": "white_stained_glass_pane_top",
+    "DisplayName": "White Glass Pane Top",
+    "X": 224,
+    "Y": 304
+  },
+  {
+    "Name": "yellow_stained_glass_pane_top",
+    "DisplayName": "Yellow Glass Pane Top",
+    "X": 240,
+    "Y": 304
+  }
+]
