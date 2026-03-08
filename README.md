@@ -6,7 +6,7 @@ A desktop GUI tool for converting modern **Java Edition texture packs** into the
 
 ## Features
 
-- **Three sprite sheet targets** — Terrain, Items, and Particles, each with their own tab and layout (keep in mind the particles doesnt have its json yet so they cant be generated just yet)
+- **Three sprite sheet targets** — Terrain, Items, and Particles, each with their own tab and layout
 - **Auto-Sync** — Point the tool at any Java texture pack folder and it will automatically match every PNG it finds to the correct slot by filename
 - **Manual override** — Double-click any entry in the list to hand-pick a specific PNG for that slot
 - **Live preview** — Click any mapped entry to instantly preview the texture it will place
@@ -81,6 +81,22 @@ Legacy Console Edition contains a number of textures that were either removed fr
 | `brown_thing_3.png` | MLCE-exclusive brown UI element variant 3 |
 
 When you run Auto-Sync, add the folder containing these files as part of your library and they will be matched automatically.
+
+---
+
+## Known Limitations
+
+### Particles Sheet
+The particles JSON mapping file is **not yet available**. The Particles tab is present in the tool but cannot be used to generate a sheet until the mapping file is added in a future update.
+
+### Bed Textures
+Bed textures **do not convert automatically** and will need to be handled manually. Modern Java Edition resource packs store bed textures as full 3D model skin sheets (e.g. `red_bed.png`, `white_bed.png`) split across the head and foot of the bed as separate files. MLCE instead expects each bed face — top, side, and end for both the head and foot sections — as individual 16×16 tiles placed directly on the items sheet.
+
+Because the layouts are fundamentally different, Auto-Sync cannot extract and remap these correctly from a Java pack. You will need to either:
+- **Create your own** bed face tiles manually by cropping and adapting the faces from your Java pack's bed texture
+- **Find pre-made** MLCE-format bed tiles that match your pack's style
+
+This is a known issue and proper automatic bed conversion is planned for a future update.
 
 ---
 
