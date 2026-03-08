@@ -105,6 +105,8 @@ Because the layouts are fundamentally different, Auto-Sync cannot extract and re
 
 This is a known issue and proper automatic bed conversion is planned for a future update.
 
+A fix for now is ive noticed some texture packs made for slightly older versions of the game arent like this and are from before they made that switch, ive found a safe version that a decent amount of modern packs support that dont have this limitation is packs made for 1.8.9.
+
 ---
 
 ## Requirements
