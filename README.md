@@ -6,7 +6,7 @@ A desktop GUI tool for converting modern **Java Edition texture packs** into the
 
 ## Features
 
-- **Three sprite sheet targets** — Terrain, Items, and Particles, each with their own tab and layout
+- **Three sprite sheet targets** — Terrain, Items, and Particles, each with their own tab and layout (keep in mind the particles doesnt have its json yet so they cant be generated just yet)
 - **Auto-Sync** — Point the tool at any Java texture pack folder and it will automatically match every PNG it finds to the correct slot by filename
 - **Manual override** — Double-click any entry in the list to hand-pick a specific PNG for that slot
 - **Live preview** — Click any mapped entry to instantly preview the texture it will place
