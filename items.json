@@ -962,54 +962,60 @@
   {
     "Name": "lead",
     "DisplayName": "Lead",
-    "X": 80,
+    "X": 64,
     "Y": 160
   },
   {
     "Name": "nether_brick",
     "DisplayName": "Nether Brick",
-    "X": 96,
+    "X": 80,
     "Y": 160
   },
   {
     "Name": "inventory_overlay",
     "DisplayName": "Inventory Overlay",
-    "X": 112,
+    "X": 96,
     "Y": 160
   },
   {
     "Name": "furnace_minecart",
     "DisplayName": "Furnace Minecart",
-    "X": 128,
+    "X": 112,
     "Y": 160
   },
   {
     "Name": "charcoal",
     "DisplayName": "Charcoal",
-    "X": 144,
+    "X": 128,
     "Y": 160
   },
   {
     "Name": "spawn_egg_overlay",
     "DisplayName": "Spawn Egg Overlay",
-    "X": 160,
+    "X": 144,
     "Y": 160
   },
   {
     "Name": "ruby",
     "DisplayName": "Ruby",
-    "X": 176,
+    "X": 160,
     "Y": 160
   },
   {
     "Name": "experience_bottle",
     "DisplayName": "Bottle o' Enchanting",
-    "X": 192,
+    "X": 176,
     "Y": 160
   },
   {
     "Name": "brewing_stand",
     "DisplayName": "Brewing Stand",
+    "X": 192,
+    "Y": 160
+  },
+  {
+    "Name": "magma_cream",
+    "DisplayName": "Magma Cream",
     "X": 208,
     "Y": 160
   },
@@ -1386,21 +1392,27 @@
     "Y": 240
   },
   {
+    "Name": "music_disc_13",
+    "DisplayName": "Music Disc 13",
+    "X": 192,
+    "Y": 240
+  },
+  {
     "Name": "music_disc_cat",
     "DisplayName": "Music Disc Cat",
-    "X": 192,
+    "X": 208,
     "Y": 240
   },
   {
     "Name": "music_disc_13",
     "DisplayName": "Music Disc 13",
-    "X": 208,
+    "X": 224,
     "Y": 240
   },
   {
     "Name": "music_disc_cat",
     "DisplayName": "Music Disc Cat",
-    "X": 224,
+    "X": 240,
     "Y": 240
   }
 ]
